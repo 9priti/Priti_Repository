@@ -2,7 +2,7 @@ package com.org.priti.test;
 
 public class CountVowels {
 	
-	public static void main (String args [])
+	public  static void main (String args [])
 	{
 		String testString = "qwertyuioplkjhgfdsazxcvbnmaeiouaeiouaeiou";
 		
